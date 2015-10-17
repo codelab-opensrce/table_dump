@@ -1,0 +1,10 @@
+{
+	"name": "codelab-opensrce/TableDump",
+		"require": {
+	},
+	"autoload": {
+		"psr-0": {
+			"TableDump": "."
+		}
+	}
+}
