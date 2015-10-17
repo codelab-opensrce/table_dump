@@ -1,6 +1,10 @@
 {
 	"name": "codelab-opensrce/TableDump",
-		"require": {
+	"description": "Table to CSV and CSV to Database import/export shell. CakePHP2.x ShellPulug-in",
+	"keywords": ["cakephp", "database", "dump","csv"],
+	"type": "cakephp-plugin",
+	"license": "MIT",
+	"require": {
 	},
 	"autoload": {
 		"psr-0": {
